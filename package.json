@@ -1,0 +1,17 @@
+{
+  "name": "notes-bank",
+  "version": "1.0.0",
+  "description": "Simple Notes App using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shruti Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
